@@ -96,7 +96,7 @@ timestamp_folder = os.path.join(documents_folder, f"agreements_{timestamp}")
 os.makedirs(timestamp_folder, exist_ok=True)
 
 # Looping through state, agency, hyperlink combinations
-for i, hyperlink in enumerate(hyperlinks[1:5]):
+for i, hyperlink in enumerate(hyperlinks):
 
     state = states[i]
     agency_name = agencies[i]
