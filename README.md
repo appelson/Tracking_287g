@@ -1,11 +1,15 @@
 # Tracking 287(g)
 
-This repository is designed to track the **287(g)** program, which includes participating and pending agencies. It scrapes data from the official [ICE 287(g) page](https://www.ice.gov/identify-and-arrest/287g) on a daily basis and stores the results in the `results` folder.
+This repository tracks the **287(g)** program, which includes both participating and pending law enforcement agencies. The scraper runs daily, extracting data from the official [ICE 287(g) page](https://www.ice.gov/identify-and-arrest/287g). The data is saved in two main folders:
 
-## Features
-- **Automatic Scraping:** Scrapes the list of participating and pending agencies involved in the 287(g) program from the official ICE website.
-- **Daily Updates:** The data is updated daily to ensure you have the most current information available.
-- **Storage:** All scraped data is stored in the `results` folder.
+- **`agreements/`**: Contains PDFs of all 287(g) agreements between law enforcement agencies and ICE, categorized by state and agency.
+- **`sheets/`**: Stores Excel files listing participating and pending agencies, as published on the ICE website.
+
+## Purpose
+
+Law enforcement agencies are increasingly entering into agreements with ICE under the **287(g)** program, assisting in the deportation of immigrants from the U.S. This program is notably supported by mandates like [Louisiana Executive Order Number JML 25-060: Project Geaux](https://interactive.wwltv.com/pdfs/Operation_GEAUX.pdf), which directs state law enforcement agencies to collaborate with ICE. 
+
+As these mandates grow, it’s crucial to track which agencies are involved in the program. This repository serves that purpose, providing a real-time overview of participating agencies and their respective agreements.
 
 ## Setup
 
@@ -38,3 +42,5 @@ python scraper.py
 - `results/`: Directory that stores the output of the scraper, including the data files retrieved from the website.
 - `requirements.txt`: Text file listing all Python dependencies required to run the scraper, ensuring consistent environments across different setups.
 - `README.md`: Documentation file providing an overview of the project, instructions for setup, and usage guidelines.
+
+### Should you have any questions, you can contact me at elijahappelson@gmail.com.
