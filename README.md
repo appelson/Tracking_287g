@@ -1,3 +1,6 @@
+## Note
+This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at elijahappelson@gmail.com. 
+
 # Tracking 287(g)
 
 This repository downloads data from the **287(g)** program and organizes it to be used by journalists, advocates, and the public. The scraper runs daily, extracting data from the official [ICE 287(g) page](https://www.ice.gov/identify-and-arrest/287g). The data is saved in two main folders:
@@ -43,6 +46,3 @@ python scraper.py
 - `sheets/`: Directory that stores the excel files with data on participating and pending agreements between ICE and law enforcement agencies.
 - `requirements.txt`: Text file listing all Python dependencies required to run the scraper.
 - `README.md`: This file.
-
-## Note
-This project was created in my personal capacity. Should you have any questions, you can contact me at elijahappelson@gmail.com.
