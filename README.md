@@ -44,4 +44,5 @@ python scraper.py
 - `requirements.txt`: Text file listing all Python dependencies required to run the scraper.
 - `README.md`: This file.
 
-### Should you have any questions, you can contact me at elijahappelson@gmail.com.
+## Note
+This project was created in my personal capacity. Should you have any questions, you can contact me at elijahappelson@gmail.com.
