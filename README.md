@@ -7,9 +7,9 @@ This repository tracks the **287(g)** program, which includes both participating
 
 ## Purpose
 
-Law enforcement agencies are increasingly entering into agreements with ICE under the **287(g)** program, assisting in the deportation of immigrants from the U.S. This program is notably supported by mandates like [Louisiana Executive Order Number JML 25-060: Project Geaux](https://interactive.wwltv.com/pdfs/Operation_GEAUX.pdf), which directs state law enforcement agencies to collaborate with ICE. 
+Law enforcement agencies are increasingly entering into agreements with ICE under the **287(g)** program, assisting in the deportation of immigrants from across the U.S. This program is supported by mandates like [Louisiana Executive Order Number JML 25-060: Project Geaux](https://interactive.wwltv.com/pdfs/Operation_GEAUX.pdf), which directs state law enforcement agencies to collaborate with ICE. 
 
-As these mandates grow, it’s crucial to track which agencies are involved in the program. This repository serves that purpose, providing a real-time overview of participating agencies and their respective agreements.
+As these mandates grow, it’s crucial to track which agencies are involved in the program. This provides a real-time overview of participating agencies and their respective agreements.
 
 ## Setup
 
@@ -38,9 +38,10 @@ python scraper.py
 ## File Structure
 
 - `.github/workflows/run_scripts.yaml`: GitHub Actions workflow file used for automating the execution of the scraper script.
-- `scraper.py`: The main Python script responsible for scraping 287(g) data from the ICE website.
-- `results/`: Directory that stores the output of the scraper, including the data files retrieved from the website.
-- `requirements.txt`: Text file listing all Python dependencies required to run the scraper, ensuring consistent environments across different setups.
-- `README.md`: Documentation file providing an overview of the project, instructions for setup, and usage guidelines.
+- `scraper.py`: The Python script responsible for scraping 287(g) data from the ICE website.
+- `agreements/`: Directory that stores the PDF agreements between ICE and law enforcement agencies.
+- `sheets/`: Directory that stores the excel files with data on participating and pending agreements between ICE and law enforcement agencies.
+- `requirements.txt`: Text file listing all Python dependencies required to run the scraper.
+- `README.md`: This file.
 
 ### Should you have any questions, you can contact me at elijahappelson@gmail.com.
