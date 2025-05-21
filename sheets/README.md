@@ -1,3 +1,5 @@
+## Most recent data:
+
 | STATE | LAW ENFORCEMENT AGENCY | TYPE | COUNTY | SUPPORT TYPE | SIGNED |
 | --- | --- | --- | --- | --- | --- |
 | ALABAMA | Colbert County Sheriff's Office | County | Colbert County | Jail Enforcement Model | 2025-05-08 00:00:00 |
