@@ -6,11 +6,10 @@ This repository downloads data from the **287(g)** program and organizes it to b
 - **`sheets/`**: Stores Excel files listing participating and pending agencies, as published on the ICE website, categorized by download date/time.
 
 ### *Note*
-This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at elijahappelson@gmail.com. 
+This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at elijahappelson@gmail.com.
 
-## State Counts **(As of May 25th, 2025)**
+## State Counts
 ### Pending Agencies Count
-```
  1. FLORIDA      | ████████████████████████████████████████ 23
  2. GEORGIA      | ███████████████████                      11
  3. TEXAS        | ████████████                             7
@@ -29,11 +28,8 @@ This project was created in my personal capacity. Should you have any questions 
 16. PENNSYLVANIA | █                                        1
 17. VIRGINIA     | █                                        1
 18. WISCONSIN    | █                                        1
-```
 
-### Participating Agencies Count:
-
-```
+### Participating Agencies Count
  1. FLORIDA        | ████████████████████████████████████████ 270
  2. TEXAS          | ████████████                             87
  3. GEORGIA        | ███                                      23
@@ -50,31 +46,30 @@ This project was created in my personal capacity. Should you have any questions 
 14. MINNESOTA      | █                                        7
 15. MARYLAND       | █                                        7
 16. TENNESSEE      | █                                        7
-17. OHIO           |                                          6
-18. KANSAS         |                                          6
-19. NEW YORK       |                                          6
-20. WYOMING        |                                          6
-21. NORTH DAKOTA   |                                          5
-22. INDIANA        |                                          4
-23. MISSOURI       |                                          4
-24. IDAHO          |                                          4
-25. MICHIGAN       |                                          4
-26. LOUISIANA      |                                          3
-27. MONTANA        |                                          3
-28. UTAH           |                                          3
-29. ALASKA         |                                          2
-30. ARKANSAS       |                                          2
-31. NEBRASKA       |                                          2
-32. NEVADA         |                                          2
-33. SOUTH DAKOTA   |                                          2
-34. COLORADO       |                                          1
-35. IOWA           |                                          1
-36. MISSISSIPPI    |                                          1
-37. MASSACHUSETTS  |                                          1
-38. NEW MEXICO     |                                          1
-39. MAINE          |                                          1
-40. WEST VIRGINIA  |                                          1
-```
+17. OHIO           | █                                        6
+18. KANSAS         | █                                        6
+19. NEW YORK       | █                                        6
+20. WYOMING        | █                                        6
+21. NORTH DAKOTA   | █                                        5
+22. INDIANA        | █                                        4
+23. MISSOURI       | █                                        4
+24. IDAHO          | █                                        4
+25. MICHIGAN       | █                                        4
+26. LOUISIANA      | █                                        3
+27. MONTANA        | █                                        3
+28. UTAH           | █                                        3
+29. ALASKA         | █                                        2
+30. ARKANSAS       | █                                        2
+31. NEBRASKA       | █                                        2
+32. NEVADA         | █                                        2
+33. SOUTH DAKOTA   | █                                        2
+34. COLORADO       | █                                        1
+35. IOWA           | █                                        1
+36. MISSISSIPPI    | █                                        1
+37. MASSACHUSETTS  | █                                        1
+38. NEW MEXICO     | █                                        1
+39. MAINE          | █                                        1
+40. WEST VIRGINIA  | █                                        1
 
 ## Purpose
 
@@ -83,7 +78,7 @@ Law enforcement agencies are increasingly entering into agreements with ICE unde
 As mandates like this continue to grow, it’s crucial to track which agencies are involved in the program, especially as the Federal Government continues to make data harder to access. This repository provides a real-time overview of participating agencies and their respective agreements.
 
 ### *Note*
-The Immigration Legal Resource Center maintains a [national map](https://www.ilrc.org/practitioners/national-map-287g-agreements) of 287(g) agreements along with resources to  understand them. 
+The Immigration Legal Resource Center maintains a [national map](https://www.ilrc.org/practitioners/national-map-287g-agreements) of 287(g) agreements along with resources to  understand them.
 
 ## Setup
 
@@ -101,7 +96,8 @@ Ensure you have Python installed on your system. Then, install the necessary dep
 
 ```bash
 pip install -r requirements.txt
-````
+```
+
 ### 3. Run the scraper
 To start the scraper, run the following command:
 
