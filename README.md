@@ -8,8 +8,9 @@ This repository downloads data from the **287(g)** program and organizes it to b
 ### *Note*
 This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at elijahappelson@gmail.com.
 
-## State Counts
+## State Counts **(As of May 25th, 2025)**
 ### Pending Agencies Count
+```
  1. FLORIDA      | ████████████████████████████████████████ 23
  2. GEORGIA      | ███████████████████                      11
  3. TEXAS        | ████████████                             7
@@ -28,8 +29,10 @@ This project was created in my personal capacity. Should you have any questions 
 16. PENNSYLVANIA | █                                        1
 17. VIRGINIA     | █                                        1
 18. WISCONSIN    | █                                        1
+```
 
 ### Participating Agencies Count
+```
  1. FLORIDA        | ████████████████████████████████████████ 270
  2. TEXAS          | ████████████                             87
  3. GEORGIA        | ███                                      23
@@ -70,6 +73,7 @@ This project was created in my personal capacity. Should you have any questions 
 38. NEW MEXICO     | █                                        1
 39. MAINE          | █                                        1
 40. WEST VIRGINIA  | █                                        1
+```
 
 ## Purpose
 
