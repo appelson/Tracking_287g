@@ -8,7 +8,7 @@ This repository downloads data from the **287(g)** program and organizes it to b
 ### *Note*
 This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at elijahappelson@gmail.com.
 
-## State Counts **(As of May 25th, 2025)**
+## State Counts **(As of May 21st, 2025)**
 ### Pending Agencies Count
 ```
  1. FLORIDA      | ████████████████████████████████████████ 23
