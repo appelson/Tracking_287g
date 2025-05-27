@@ -54,4 +54,6 @@ python scraper.py
 - `agreements/`: Directory that stores the PDF agreements between ICE and law enforcement agencies.
 - `sheets/`: Directory that stores the excel files with data on participating and pending agreements between ICE and law enforcement agencies.
 - `requirements.txt`: Text file listing all Python dependencies required to run the scraper.
+- `data_analysis.R`: The R script responsible for analyzing the 287(g) data and making plots.
+- `plots/`: The output of the R script.
 - `README.md`: This file.
