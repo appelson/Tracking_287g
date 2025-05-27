@@ -8,72 +8,10 @@ This repository downloads data from the **287(g)** program and organizes it to b
 ### *Note*
 This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at elijahappelson@gmail.com.
 
-## State Counts **(As of May 21st, 2025)**
-### Pending Agencies Count
-```
- 1. FLORIDA      | ████████████████████████████████████████ 23
- 2. GEORGIA      | ███████████████████                      11
- 3. TEXAS        | ████████████                             7
- 4. ALABAMA      | ██████████                               6
- 5. TENNESSEE    | ██████                                   4
- 6. KANSAS       | ███                                      2
- 7. NEVADA       | ███                                      2
- 8. OKLAHOMA     | ███                                      2
- 9. WYOMING      | ███                                      2
-10. ARIZONA      | █                                        1
-11. MARYLAND     | █                                        1
-12. MICHIGAN     | █                                        1
-13. MINNESOTA    | █                                        1
-14. MISSOURI     | █                                        1
-15. MONTANA      | █                                        1
-16. PENNSYLVANIA | █                                        1
-17. VIRGINIA     | █                                        1
-18. WISCONSIN    | █                                        1
-```
-
+## Plots **(As of May 23rd, 2025)**
 ### Participating Agencies Count
-```
- 1. FLORIDA        | ████████████████████████████████████████ 270
- 2. TEXAS          | ████████████                             87
- 3. GEORGIA        | ███                                      23
- 4. NORTH CAROLINA | ███                                      21
- 5. VIRGINIA       | ██                                       15
- 6. KENTUCKY       | ██                                       15
- 7. OKLAHOMA       | ██                                       15
- 8. SOUTH CAROLINA | ██                                       14
- 9. WISCONSIN      | █                                        13
-10. NEW HAMPSHIRE  | █                                        11
-11. PENNSYLVANIA   | █                                        11
-12. ALABAMA        | █                                        9
-13. ARIZONA        | █                                        7
-14. MINNESOTA      | █                                        7
-15. MARYLAND       | █                                        7
-16. TENNESSEE      | █                                        7
-17. OHIO           | █                                        6
-18. KANSAS         | █                                        6
-19. NEW YORK       | █                                        6
-20. WYOMING        | █                                        6
-21. NORTH DAKOTA   | █                                        5
-22. INDIANA        | █                                        4
-23. MISSOURI       | █                                        4
-24. IDAHO          | █                                        4
-25. MICHIGAN       | █                                        4
-26. LOUISIANA      | █                                        3
-27. MONTANA        | █                                        3
-28. UTAH           | █                                        3
-29. ALASKA         | █                                        2
-30. ARKANSAS       | █                                        2
-31. NEBRASKA       | █                                        2
-32. NEVADA         | █                                        2
-33. SOUTH DAKOTA   | █                                        2
-34. COLORADO       | █                                        1
-35. IOWA           | █                                        1
-36. MISSISSIPPI    | █                                        1
-37. MASSACHUSETTS  | █                                        1
-38. NEW MEXICO     | █                                        1
-39. MAINE          | █                                        1
-40. WEST VIRGINIA  | █                                        1
-```
+
+### Additional Participating Agencies
 
 ## Purpose
 
