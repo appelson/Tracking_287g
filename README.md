@@ -9,11 +9,8 @@ This repository downloads data from the **287(g)** program and organizes it to b
 This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at elijahappelson@gmail.com.
 
 ## Plots **(As of May 23rd, 2025)**
-### Participating Agencies Count
-
 ![image1](https://github.com/appelson/Tracking-287g/blob/17bd6de1f2f8297f6c318b3b0f008bb496ad876d/plots/add_agreements.png)
 
-### Additional Participating Agencies
 
 ## Purpose
 
