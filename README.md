@@ -20,7 +20,7 @@ Law enforcement agencies are increasingly entering into agreements with ICE unde
 As mandates like this continue to grow, it’s crucial to track which agencies are involved in the program, especially as the Federal Government continues to make data harder to access. This repository provides a real-time overview of participating agencies and their respective agreements.
 
 ### *Note*
-The Immigration Legal Resource Center maintains a [national map](https://www.ilrc.org/practitioners/national-map-287g-agreements) of 287(g) agreements along with resources to  understand them.
+The Immigrant Legal Resource Center maintains a [national map](https://www.ilrc.org/practitioners/national-map-287g-agreements) of 287(g) agreements along with resources to  understand them.
 
 ## Setup
 
