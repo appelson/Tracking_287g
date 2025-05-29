@@ -8,7 +8,7 @@ This repository downloads data from the **287(g)** program and organizes it to b
 ### *Note*
 This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at elijahappelson@gmail.com.
 
-## Plots **(As of May 23rd, 2025)**
+## Plots **(As of May 28, 2025)**
 ![image1](https://github.com/appelson/Tracking-287g/blob/e9dda58c8498343b7609b66cd9ec5a642619564c/plots/add_agreements.png)
 
 ![image2](https://github.com/appelson/Tracking-287g/blob/fa2fbaf301a884b9ca8c2502370779faee5e957f/plots/n_agreements.png)
