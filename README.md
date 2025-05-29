@@ -11,7 +11,7 @@ This project was created in my personal capacity. Should you have any questions 
 ## Plots **(As of May 28, 2025)**
 ![image1](https://github.com/appelson/Tracking-287g/blob/e9dda58c8498343b7609b66cd9ec5a642619564c/plots/add_agreements.png)
 
-![image2](https://github.com/appelson/Tracking-287g/blob/fa2fbaf301a884b9ca8c2502370779faee5e957f/plots/n_agreements.png)
+![image2](https://github.com/appelson/Tracking-287g/blob/e2b13e60bac88ed78e166453fd9c2a8ad5671432/plots/n_agreements.png)
 
 ## Purpose
 
