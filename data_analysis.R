@@ -8,7 +8,7 @@ library(showtext)
 library(lubridate)
 
 # Loading data
-parent_folder <- "appelson Tracking-287g main sheets"
+parent_folder <- "sheets"
 
 # Defining the data folders
 folders <- list.dirs(parent_folder, full.names = FALSE, recursive = FALSE) %>%
@@ -115,5 +115,17 @@ top20_plot <- summary_df %>%
     plot.subtitle = element_text(face = "plain")
   )
 
+# Saving plots
+png(filename = "plots/add_agreements.png", 
+    width = 2900,
+    height = 2000,
+    res = 300)
 print(increase_plot)
+dev.off()
+
+png(filename = "plots/n_agreements.png", 
+    width = 2900,
+    height = 2000,
+    res = 300)
 print(top20_plot)
+dev.off()
