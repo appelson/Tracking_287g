@@ -9,9 +9,9 @@ This repository downloads data and agreements from the **287(g)** program and or
 This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at elijahappelson@gmail.com.
 
 ## Plots **(As of June 4, 2025)**
-![image1](https://github.com/appelson/Tracking-287g/blob/6fc8a5fec20029b566729c9d6f4c11f0e8d6deba/plots/add_agreements.png)
+![image1](/plots/add_agreements.png)
 
-![image2](https://github.com/appelson/Tracking-287g/blob/be73ca7ca682651a34352440ccf3d8273b0bceaf/plots/n_agreements.png)
+![image2](/plots/n_agreements.png)
 
 ## Purpose
 
