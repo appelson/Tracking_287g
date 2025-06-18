@@ -28,6 +28,10 @@ jobs:
       run: |
         python script.py
 
+    - name: Run the script
+      run: |
+        python deduplicate.py
+
     - name: Commit and push changes
       run: |
         git config --local user.name "github-actions"
