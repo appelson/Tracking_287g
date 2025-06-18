@@ -1,3 +1,5 @@
+**Update:** The `sheets` and `agreement` folders now only contain **new** data to save storage.*
+
 # Tracking 287(g)
 
 This repository downloads data and agreements from the **287(g)** program and organizes them to be used by journalists, advocates, and the public. The scraper runs daily, extracting data from the official [ICE 287(g) page](https://www.ice.gov/identify-and-arrest/287g). The data is saved in two main folders:
