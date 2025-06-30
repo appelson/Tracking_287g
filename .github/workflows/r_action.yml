@@ -25,7 +25,7 @@ jobs:
 
     - name: Install R dependencies
       run: |
-        Rscript -e 'install.packages(c("dplyr", "purrr", "jsonlite","stringr", "janitor", "readxl", "ggplot2", "showtext", "lubridate"), repos = "https://cloud.r-project.org")'
+        Rscript -e 'install.packages(c("dplyr", "purrr", "curl", "jsonlite","stringr", "janitor", "readxl", "ggplot2", "showtext", "lubridate"), repos = "https://cloud.r-project.org")'
 
     - name: Run the main script
       run: |
