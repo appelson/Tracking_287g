@@ -1,6 +1,8 @@
 # --------------------- Reading in Data ------------------------
 # Loading Libraries
-library(tidyverse)
+library(dplyr)
+library(purrr)
+library(stringr)
 library(janitor)
 library(readxl)
 library(ggplot2)
