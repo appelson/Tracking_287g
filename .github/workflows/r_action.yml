@@ -23,9 +23,9 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y libfreetype6-dev libfontconfig1-dev libharfbuzz-dev libfribidi-dev
 
-    - name: Install R dependencies
+    - name: Install all R dependencies safely
       run: |
-        Rscript -e 'install.packages(c("dplyr", "purrr", "curl", "jsonlite","stringr", "janitor", "readxl", "ggplot2", "showtext", "lubridate"), repos = "https://cloud.r-project.org")'
+        Rscript -e 'install.packages(c("curl", "jsonlite", "dplyr", "purrr", "stringr", "janitor", "readxl", "ggplot2", "showtext", "lubridate"), repos = "https://cloud.r-project.org", dependencies = TRUE)'
 
     - name: Run the main script
       run: |
