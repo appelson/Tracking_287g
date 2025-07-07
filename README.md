@@ -1,7 +1,3 @@
-***Update (July 7th, 2025):** Added a code and [resulting CSV](/agreements.csv) that merges the 287(G) data with agencies in the [Census of State and Local Law Enforcement Agencies (CSLLEA), 2018 (ICPSR 38771)](https://www.icpsr.umich.edu/web/NACJD/studies/38771). This allows us to merge the agency data with agency-centered datasets. Particularly, [`agreements.csv`]((/agreements.csv) contains zipcodes, how many people the law enforcement agency polices, and what their operating budget is.*
-
-***Update (June 16th, 2025):** The `sheets` and `agreement` folders now only contain **new** data/documents to save storage.*
-
 # Tracking 287(g)
 
 This repository downloads data and agreements from the **287(g)** program and organizes them to be used by journalists, advocates, and the public. The scraper runs daily, extracting data from the official [ICE 287(g) page](https://www.ice.gov/identify-and-arrest/287g). The data is saved in two main folders:
@@ -11,6 +7,12 @@ This repository downloads data and agreements from the **287(g)** program and or
 
 ### *Note*
 This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at elijahappelson@gmail.com.
+
+## Updates
+
+***Update (July 7th, 2025):** Added a code and [resulting CSV](/agreements.csv) that merges the 287(G) data with agencies in the [Census of State and Local Law Enforcement Agencies (CSLLEA), 2018 (ICPSR 38771)](https://www.icpsr.umich.edu/web/NACJD/studies/38771). This allows us to merge the agency data with agency-centered datasets. Particularly, [`agreements.csv`]((/agreements.csv) contains zipcodes, how many people the law enforcement agency polices, and what their operating budget is.*
+
+***Update (June 16th, 2025):** The `sheets` and `agreement` folders now only contain **new** data/documents to save storage.*
 
 ## Plots
 ![image1](plots/add_agreements.png)
