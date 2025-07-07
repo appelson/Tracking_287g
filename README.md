@@ -1,4 +1,4 @@
-***Update (July 7th, 2025):** Added a code and [resulting CSV](/agreements.csv) that merges the 287(G) data with agencies in the Census of State and Local Law Enforcement Agencies (CSLLEA), 2018 (ICPSR 38771). This allows us to connect dataframes more easily.*
+***Update (July 7th, 2025):** Added a code and [resulting CSV](/agreements.csv) that merges the 287(G) data with agencies in the [Census of State and Local Law Enforcement Agencies (CSLLEA), 2018 (ICPSR 38771)](https://www.icpsr.umich.edu/web/NACJD/studies/38771). This allows us to merge the agency data with agency-centered datasets.*
 
 ***Update (June 16th, 2025):** The `sheets` and `agreement` folders now only contain **new** data/documents to save storage.*
 
