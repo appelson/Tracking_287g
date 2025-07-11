@@ -1,0 +1,50 @@
+Bibliography
+Census of State and Local Law Enforcement Agencies (CSLLEA), 2018
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 38771. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Gardner, Andrea, "Census of State and Local Law Enforcement, 2018."
+Presented at the American Society of Criminology 2018 Annual Meeting,
+American Society of Criminology, Atlanta, GA, Nov 17, 2022.
+Abstract: https://tinyurl.com/2kb8kzkt
+
+2. Gardner, Andrea M.; Scott, Kevin M., "Census of State and Local Law
+Enforcement Agencies, 2018." Statistical Tables. NCJ 302187, Washington,
+DC: Bureau of Justice Statistics, Oct 2022.
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/csllea18st.pdf
+
+3. Mikelbank, Brian A., "Race, poverty, and debt-related driver's license
+suspensions." Journal of Economics, Race, and Policy. in press 2024,. DOI:
+10.1007/s41996-024-00150-6
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/csllea18st.pdf
+
+4. O'Guinn, Bradley J.; Haberman, Cory P., "Current trends in crime
+analysis in the state of Ohio: Evaluating law enforcement agencies' ability
+to adopt evidence-based policing strategies." Journal of Crime and Justice.
+in press 2024,. DOI: 10.1080/0735648X.2024.2391860
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/csllea18st.pdf
+
+5. Ponomarenko, Maria, "The small agency problem in American policing." New
+York University Law Review. Apr 2024, 99,.
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/csllea18st.pdf
+
+6. Rodgers, Kourtnie R., "Public Information Officers and Social Media: New
+Media, New Methods?." Dissertation, Michigan State University, 2024.
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/csllea18st.pdf
+
+7. Sanders, Thomas L., "State-Based Law Enforcement Accreditation Outcomes:
+A Multiple Case Study in Texas." Dissertation, Liberty University, 2025.
+Full text PDF: https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=7673&context=doctoral
+
+8. Shelfer, Davis, "Examining the Impact of Police Use of Force Policy
+Characteristics on Use of Force Outcomes." Dissertation, Sam Houston State
+University, 2024.
+Full text PDF: https://shsu-ir.tdl.org/server/api/core/bitstreams/c9f0e274-9338-44e6-8d8f-51596c386793/content

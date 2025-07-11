@@ -1,0 +1,80 @@
+Bibliography
+Directory of Law Enforcement Agencies Series
+
+This bibliography includes published and unpublished works that are
+related to ICPSR series 169. It includes works that are based on
+primary or secondary analysis of the data, or which describe or critique
+those data or the collection methodology. This list represents all items
+known to ICPSR as of 2019-05-21.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR series used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Ansari, Sami, Estimating Crime Rates from Police Reports and Victim
+Surveys: Progressive and Convergence in Time Series Analyses. El Paso, TX:
+LFB Scholarly Publishing, 2013.
+
+2. Dinsmore, Ellen, "From blue lines to black bars: Does police
+militarization predict local incarceration rates?." Presented at the PAA
+2017 Annual Meeting, Population Association of America, Chicago, IL, Apr
+29, 2017.
+Abstract: https://paa.confex.com/paa/2017/meetingapp.cgi/Paper/16027
+Full text PDF: https://paa.confex.com/paa/2017/mediafile/ExtendedAbstract/Paper16027/Dinsmore%20-%20Police%20Militarization%20and%20Local%20Incarceration.pdf
+
+3. Esquivel, Amanda, "The Physiological Effects and Risk Assessment of
+Conducted Electrical Weapons." Dissertation, Wayne State University, 2008.
+Abstract: https://paa.confex.com/paa/2017/meetingapp.cgi/Paper/16027
+Full text PDF: https://paa.confex.com/paa/2017/mediafile/ExtendedAbstract/Paper16027/Dinsmore%20-%20Police%20Militarization%20and%20Local%20Incarceration.pdf
+
+4. Johnson, Brian Richard, "Act 312 Arbitration: An Exploratory Study."
+dissertation, Michigan State University, 1998.
+Abstract: https://paa.confex.com/paa/2017/meetingapp.cgi/Paper/16027
+Full text PDF: https://paa.confex.com/paa/2017/mediafile/ExtendedAbstract/Paper16027/Dinsmore%20-%20Police%20Militarization%20and%20Local%20Incarceration.pdf
+
+5. Maguire, Edward R.; Snipes, Jeffrey B.; Uchida, Craig D.; et al,
+"Counting cops: Estimating the number of police departments and police
+officers in the U.S.A.." Policing. 1998, 21, (1), 97 - 120.
+Abstract: https://paa.confex.com/paa/2017/meetingapp.cgi/Paper/16027
+Full text PDF: https://paa.confex.com/paa/2017/mediafile/ExtendedAbstract/Paper16027/Dinsmore%20-%20Police%20Militarization%20and%20Local%20Incarceration.pdf
+
+6. Perry, Steven W., "Tribal Crime Data Collection Activities, 2013." NCJ
+242584, Washington, DC: Bureau of Justice Statistics, Aug 2013.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=264659
+Full text: http://www.bjs.gov/content/pub/ascii/tcdca13.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/tcdca13.pdf
+BJS released a solicitation in 2013 for a survey of the tribal activities
+and caseloads of all State and local law enforcement agencies and all local
+prosecutors’ offices that provided services on tribal lands. BJS also
+designed a national survey of tribal courts; and it expanded the survey of
+jails in Indian country in order to explore other offense types, including
+burglary, larceny-theft, and public intoxication. In addition, BJS is
+preparing a report that documents the processing of American Indian or
+Alaska Native Juvenile and adult cases in the Federal justice system. The
+BJS Web site continues to be the central source of Department of Justice
+tribal statistics and funding opportunities for improved data reporting in
+national record systems. The number of tribal law enforcement agencies that
+are reporting crime data in the FBI’s Uniform Crime Reporting (UCR) Program
+increased from 143 in 2010 to 168 in 2011. Tribes received $404,317 through
+the Bureau of Justice Assistance’s 2013 Edward Byrne Memorial Justice
+Assistance Grant (JAG) Program. BJS also announced multiple funding
+opportunities in 2013 for improving tribal criminal history records and the
+reporting of persons prohibited from receiving or possessing a firearm
+under State or Federal law. A figure shows the total JAG allocations to
+American Indian tribes for 2008-2013. Another figure shows the total tribal
+law enforcement agencies reporting identifiable violent and property crimes
+for 2008-2011, and a table presents data on total violent and property
+crimes reported by these agencies for each of these years. Previously
+released reports on tribal crime data collection activities are listed.
+
+7. Saunders, Jessica; Kotzias, Virginia; Ramchand, Rajeev, "Contemporary
+police stress: The impact of the evolving socio-political context."
+Criminology, Criminal Justice, Law and Society. 2019, 20, (1), 35 - 52.
+Full text PDF: https://ccjls.scholasticahq.com/article/7739-contemporary-police-stress-the-impact-of-the-evolving-socio-political-context
+
+8. Xie, Min; Lauritsen, Janet L.; Heimer, Karen, "Intimate partner violence
+in U.S. metropolitan areas: The contextual influences of police and social
+services." Criminology. Nov 2012, 50, (4), 961 - 992. DOI: 10.1111/j.1745-
+9125.2012.00284.x
+Full text PDF: https://ccjls.scholasticahq.com/article/7739-contemporary-police-stress-the-impact-of-the-evolving-socio-political-context

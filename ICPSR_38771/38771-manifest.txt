@@ -1,0 +1,56 @@
+File Manifest for ICPSR 38771
+
+United States Department of Justice. Office of Justice Programs. Bureau of
+Justice Statistics. Census of State and Local Law Enforcement Agencies
+(CSLLEA), 2018. ICPSR38771-v1. Ann Arbor, MI: Inter-university Consortium
+for Political and Social Research [distributor], 2023-05-30.
+http://doi.org/10.3886/ICPSR38771.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38771-descriptioncitation.pdf       -       -         -       2023-05-30  -
+
+    38771-related_literature.txt        -       -         -       daily       -
+
+    38771-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Census of State and Local Law Enforcement Agencies (CSLLEA), 2018
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38771-0001-Codebook.pdf             -       -         -       2023-05-30  e29bbe7fb6a02c0eb7edd1a2137f5826
+
+    38771-0001-Data.dta                 -       17,721    111     2023-05-30  74f2336c5c5faddbc23503adac7931e0
+
+    38771-0001-Data.rda                 -       17,721    111     2023-05-30  8e1e7133b3ea8ce7fcb238e9adf9c8e2
+
+    38771-0001-Data.sav                 -       17,721    111     2023-05-30  9db6f2e2d412cdf03781c507bb591004
+
+    38771-0001-Data.stc                 -       17,721    111     2023-05-30  e60303ab74b140207f86c641f97cc0b9
+
+    38771-0001-Data.tsv                 -       17,721    111     2023-05-30  f463ce2aaf68eec613a2265742baf00f
+
+    38771-0001-Data.txt                 1075    17,721    111     2023-05-30  7fc26c40bd88157b015d3b8e88b26d0f
+
+    38771-0001-Documentation-crosswalk.xlsx -       -         -       2023-05-30  a5278ea5da3d3511d41fc59810401d9f
+
+    38771-0001-Qualitative_data.csv     -       -         -       2023-05-30  ff2c7646a5debc56e78f17b0615debe2
+
+    38771-0001-Setup.dct                -       -         -       2023-05-30  5e3d99b34381ab5fe19f8a857d8e8a48
+
+    38771-0001-Setup.do                 -       -         -       2023-05-30  e6756bfcddd8226539ba7355d146a635
+
+    38771-0001-Setup.sas                -       -         -       2023-05-30  b7a2c48035e73d13c6e939c0b6081e25
+
+    38771-0001-Setup.sps                -       -         -       2023-05-30  dce990d0be2506bdc60bb97108390367
+
+    38771-0001-Supplemental_syntax.do   -       -         -       2023-05-30  af270357a647c5b4dcec795fb21922c2
+
+    38771-0001-Supplemental_syntax.sas  -       -         -       2023-05-30  6dc2ae000394f6536aa6a4b6cce967c9
+
