@@ -1,5 +1,8 @@
 # Tracking 287(g)
 
+## NOTE: Apologies! The GitHub Actions stopped working for a few months but is back up and running! 
+
+
 This repository downloads data and agreements from the **287(g)** program and organizes them to be used by journalists, advocates, and the public. The scraper runs daily, extracting data from the official [ICE 287(g) page](https://www.ice.gov/identify-and-arrest/287g). The data is saved in two main folders:
 
 - **`agreements/`**: Contains PDFs of all 287(g) agreements between law enforcement agencies and ICE, categorized by download date/time, state, and agency.
