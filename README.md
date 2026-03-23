@@ -10,6 +10,8 @@ This project was created in my personal capacity. Should you have any questions 
 
 ## Updates
 
+- ***March 23rd, 2026:** Changed the URL in the scraper as ICE moved where the data is housed on their website.*
+
 - ***February 20th, 2026:** Added a license, `sheriff_script.R` to calculate the number of people policed by all Sheriff offices under 287g agreements, and `classification.R` to classify agencies by their agency type (i.e. Local Police Department, Federal Police Department, etc.)*
 
 - ***July 7th, 2025:** Added a code and [resulting CSV](/agreements.csv) that merges the 287(G) data with agencies in the [Census of State and Local Law Enforcement Agencies (CSLLEA), 2018 (ICPSR 38771)](https://www.icpsr.umich.edu/web/NACJD/studies/38771). This allows us to merge the agency data with agency-centered datasets. Particularly, [`agreements.csv`](/agreements.csv) contains zipcodes, how many people the law enforcement agency polices, and what their operating budget is.*
