@@ -19,13 +19,13 @@ soup = BeautifulSoup(response.content, 'html.parser')
 # Extracting the participating agencies link
 participating = [
     a['href'] for a in soup.find_all('a', href=True)
-    if "https://www.ice.gov/doclib/about/offices/ero/287g/participating" in a['href']
+    if "https://www.ice.gov/sites/default/files/documents/participating" in a['href']
 ]
 
 # Extracting the pending agencies link
 pending = [
     a['href'] for a in soup.find_all('a', href=True)
-    if "https://www.ice.gov/doclib/about/offices/ero/287g/pending" in a['href']
+    if "https://www.ice.gov/sites/default/files/documents/pending" in a['href']
 ]
 
 # Creating the "sheets" document
