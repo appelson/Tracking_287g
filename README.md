@@ -10,6 +10,8 @@ This project was created in my personal capacity. Should you have any questions 
 
 ## Updates
 
+- ***April 8th, 2026:** ICE now is housing the downloads in `https://www.ice.gov/file-download/download/public/`. Code has been adjusted accordingly.*
+
 - ***March 23rd, 2026:** Changed the URL in the scraper as ICE moved where the data is housed on their website.*
 
 - ***February 20th, 2026:** Added a license, `sheriff_script.R` to calculate the number of people policed by all Sheriff offices under 287g agreements, and `classification.R` to classify agencies by their agency type (i.e. Local Police Department, Federal Police Department, etc.)*
