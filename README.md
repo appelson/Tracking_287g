@@ -6,7 +6,7 @@ This repository downloads data and agreements from the **287(g)** program and or
 
 - **`agreements/`**: Contains PDFs of all 287(g) agreements between law enforcement agencies and ICE, categorized by download date/time, state, and agency.
 - **`sheets/`**: Stores Excel files listing participating and pending agencies, as published on the ICE website, categorized by download date/time.
-- **`archive/``**: The archive contains 287(g) sheets and agreements downloaded from the [Wayback Machine](http://web.archive.org/) between January 2021 and when this scraper was created. This is meant to backfill *some* of the missing data.
+- **`archive/`**: The archive contains 287(g) sheets and agreements downloaded from the [Wayback Machine](http://web.archive.org/) between January 2021 and when this scraper was created. This is meant to backfill *some* of the missing data.
 
 ### *Note*
 This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at **elijahappelson@gmail.com**.
