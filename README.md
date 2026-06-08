@@ -34,6 +34,18 @@ Law enforcement agencies are increasingly entering into agreements with ICE unde
 
 As relationships between ICE and local law enforcement become more common, it’s crucial to track which agencies are involved in the program. This repository provides a real-time overview of participating agencies and their respective agreements.
 
+
+## File Structure
+
+- `.github/workflows/run_scripts.yaml`: GitHub Actions workflow file used for automating the execution of the scraper script.
+- `scraper.py`: The Python script responsible for scraping 287(g) data from the ICE website.
+- `agreements/`: Directory that stores the PDF agreements between ICE and law enforcement agencies.
+- `sheets/`: Directory that stores the excel files with data on participating and pending agreements between ICE and law enforcement agencies.
+- `requirements.txt`: Text file listing all Python dependencies required to run the scraper.
+- `data_analysis.R`: The R script responsible for analyzing the 287(g) data and making plots.
+- `plots/`: The output of the R script.
+- `README.md`: This file.
+
 ### Related Projects
 
 - The [Recovered Factory](http://recoveredfactory.net/) published [Every active 287(g) agreement between local police and ICE](https://287g.recoveredfactory.net/), which analyzes 287(g) agreements, creating graphics, and estimating the % of people who live in communities with such agreements. 
@@ -64,14 +76,3 @@ To start the scraper, run the following command:
 ```bash
 python scraper.py
 ```
-
-## File Structure
-
-- `.github/workflows/run_scripts.yaml`: GitHub Actions workflow file used for automating the execution of the scraper script.
-- `scraper.py`: The Python script responsible for scraping 287(g) data from the ICE website.
-- `agreements/`: Directory that stores the PDF agreements between ICE and law enforcement agencies.
-- `sheets/`: Directory that stores the excel files with data on participating and pending agreements between ICE and law enforcement agencies.
-- `requirements.txt`: Text file listing all Python dependencies required to run the scraper.
-- `data_analysis.R`: The R script responsible for analyzing the 287(g) data and making plots.
-- `plots/`: The output of the R script.
-- `README.md`: This file.
