@@ -12,13 +12,13 @@ This repository downloads data and agreements from the **287(g)** program and or
 This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at **elijahappelson@gmail.com**.
 
 ## Updates
-- ***June 8th, 2026:** Included archived data, downloaded via the Wayback Machine. There are still holes in the data, but this should fill in some sheets for the previous 4 years before this scraper was created.
+- **June 8th, 2026:** Included archived data, downloaded via the Wayback Machine. There are still holes in the data, but this should fill in some sheets for the previous 4 years before this scraper was created.
 
-- ***April 8th, 2026:** ICE now is housing the downloads in `https://www.ice.gov/file-download/download/public/`. Code has been adjusted accordingly.*
+- **April 8th, 2026:** ICE now is housing the downloads in `https://www.ice.gov/file-download/download/public/`. Code has been adjusted accordingly.*
 
-- ***March 23rd, 2026:** Changed the URL in the scraper as ICE moved where the data is housed on their website.*
+- **March 23rd, 2026:** Changed the URL in the scraper as ICE moved where the data is housed on their website.*
 
-- ***February 20th, 2026:** Added a license, `sheriff_script.R` to calculate the number of people policed by all Sheriff offices under 287g agreements, and `classification.R` to classify agencies by their agency type (i.e. Local Police Department, Federal Police Department, etc.)*
+- **February 20th, 2026:** Added a license, `sheriff_script.R` to calculate the number of people policed by all Sheriff offices under 287g agreements, and `classification.R` to classify agencies by their agency type (i.e. Local Police Department, Federal Police Department, etc.)*
 
 - ***July 7th, 2025:** Added a code and [resulting CSV](/agreements.csv) that merges the 287(G) data with agencies in the [Census of State and Local Law Enforcement Agencies (CSLLEA), 2018 (ICPSR 38771)](https://www.icpsr.umich.edu/web/NACJD/studies/38771). This allows us to merge the agency data with agency-centered datasets. Particularly, [`agreements.csv`](/agreements.csv) contains zipcodes, how many people the law enforcement agency polices, and what their operating budget is.* **NOTE:** This has been removed from this repository. 
 
