@@ -6,7 +6,7 @@ This repository downloads data and agreements from the **287(g)** program and or
 
 - **`agreements/`**: Contains PDFs of all 287(g) agreements between law enforcement agencies and ICE, categorized by download date/time, state, and agency.
 - **`sheets/`**: Stores Excel files listing participating and pending agencies, as published on the ICE website, categorized by download date/time.
-- **`archive/`**: The archive contains 287(g) sheets and agreements downloaded from the [Wayback Machine](http://web.archive.org/) between January 2021 and when this scraper was created. This is meant to backfill *some* of the missing data.
+- **`archive/`**: Contains 287(g) sheets and agreements backfilled from the [Wayback Machine](http://web.archive.org/) between January 2021 and when this scraper was created. This is meant to fill in *some* of the missing data for the years before this project. It is split into `before_2025/` (when ICE published data as an HTML table) and `after_2025/` (when ICE switched to downloadable `.xlsx` sheets), plus the `raw/` HTML captures used to build both.
 
 ### *Note*
 This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at **elijahappelson@gmail.com**.
@@ -37,42 +37,72 @@ As relationships between ICE and local law enforcement become more common, it’
 
 ## File Structure
 
-- `.github/workflows/run_scripts.yaml`: GitHub Actions workflow file used for automating the execution of the scraper script.
-- `scraper.py`: The Python script responsible for scraping 287(g) data from the ICE website.
-- `agreements/`: Directory that stores the PDF agreements between ICE and law enforcement agencies.
-- `sheets/`: Directory that stores the excel files with data on participating and pending agreements between ICE and law enforcement agencies.
-- `requirements.txt`: Text file listing all Python dependencies required to run the scraper.
-- `data_analysis.R`: The R script responsible for analyzing the 287(g) data and making plots.
-- `plots/`: The output of the R script.
-- `README.md`: This file.
+```
+tracking-287g/
+├── .github/
+│   └── workflows/
+│       └── run-script_final.yml   # GitHub Actions workflow automating the scraper
+├── agreements/                    # PDF agreements between ICE and law enforcement agencies
+├── analysis/                      # R scripts for analyzing and classifying the 287(g) data
+├── archived_data/                 # Wayback Machine backfill (Jan 2021 onward)
+│   ├── raw/                       # Raw HTML captures of the ICE page from the Wayback Machine
+│   ├── before_2025/               # Data from when ICE published an HTML table
+│   │   ├── sheets/                # Deduplicated CSV snapshots of the table over time
+│   │   └── agreements/            # Agreement PDFs linked from the table
+│   └── after_2025/                # Data from when ICE switched to downloadable .xlsx sheets
+│       ├── sheets/                # Participating/pending .xlsx snapshots over time
+│       └── agreements/            # Agreement files linked inside the .xlsx sheets
+├── plots/                         # Output plots
+├── sheets/                        # Excel files with participating and pending agency data
+├── Tracking-287g.Rproj            # RStudio project file
+├── archive.py                     # Backfills historical data from the Wayback Machine
+├── deduplicate.py                 # Removes duplicate files and empty folders to save storage
+├── script.py                      # Daily scraper that pulls 287(g) data from the ICE website
+└── requirements.txt               # Python dependencies required to run the scraper
+```
+
+### Key files and folders
+ 
+- **`script.py`**: The Python script responsible for scraping current 287(g) data from the ICE website. Run daily via GitHub Actions.
+- **`archive.py`**: One-time backfill script that downloads historical captures, sheets, and agreements from the Wayback Machine and populates `archived_data/`.
+- **`deduplicate.py`**: Utility that hashes files to remove duplicate agreements/sheets and prune empty directories.
+- **`.github/workflows/run-script_final.yml`**: GitHub Actions workflow file used to automate execution of the scraper.
+- **`requirements.txt`**: Lists all Python dependencies required to run the scrapers.
 
 ### Related Projects
 
-- The [Recovered Factory](http://recoveredfactory.net/) published [Every active 287(g) agreement between local police and ICE](https://287g.recoveredfactory.net/), which analyzes 287(g) agreements, creating graphics, and estimating the % of people who live in communities with such agreements. 
+- The [Recovered Factory](http://recoveredfactory.net/) published [Every active 287(g) agreement between local police and ICE](https://287g.recoveredfactory.net/), which analyzes 287(g) agreements, creating graphics, and estimating the % of people who live in communities with such agreements.
 - The Markup published [Here’s Every Local Police Agency Enforcing for ICE](https://themarkup.org/tools/2025/04/16/law-enforcement-ice-cooperation-tracker), which has continued to track 287(g) agreements.
 - The Immigrant Legal Resource Center maintains a [national map](https://www.ilrc.org/practitioners/national-map-287g-agreements) of 287(g) agreements along with resources to understand them.
 
 ## Setup
 
 To use this repository, follow these steps:
-
+ 
 ### 1. Clone the repository
 Clone the repository to your local machine:
-
+ 
 ```bash
-git clone https://github.com/yourusername/tracking-287g.git
+git clone https://github.com/[your_username]/tracking-287g.git
 ```
-
+ 
 ### 2. Install dependencies
 Ensure you have Python installed on your system. Then, install the necessary dependencies by running:
-
+ 
 ```bash
 pip install -r requirements.txt
 ```
-
+ 
 ### 3. Run the scraper
-To start the scraper, run the following command:
-
+To start the daily scraper, run the following command:
+ 
 ```bash
-python scraper.py
+python script.py
+```
+ 
+### 4. (Optional) Backfill historical data
+To backfill historical data from the Wayback Machine into `archived_data/`, run:
+ 
+```bash
+python archive.py
 ```
