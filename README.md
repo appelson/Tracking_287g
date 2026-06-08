@@ -24,19 +24,21 @@ This project was created in my personal capacity. Should you have any questions 
 
 - ***June 16th, 2025:** The `sheets` and `agreement` folders now only contain **new** data/documents to save storage.*
 
-## Plots
 ![image1](plots/add_agreements.png)
 
 ![image2](/plots/n_agreements.png)
 
 ## Purpose
 
-Law enforcement agencies are increasingly entering into agreements with ICE under the **287(g)** program, assisting in the deportation of immigrants from across the U.S. Between 2016 and June 2024, this facilitated at least 47,000 ICE arrests. This program is supported by mandates like [Louisiana Executive Order Number JML 25-060: Project Geaux](https://interactive.wwltv.com/pdfs/Operation_GEAUX.pdf), which directs state law enforcement agencies to collaborate with ICE.
+Law enforcement agencies are increasingly entering into agreements with ICE under the **287(g)** program, assisting in the deportation of immigrants from across the U.S., potentially facilitating hundreds of thousands of arrests. This program is supported by mandates like [Louisiana Executive Order Number JML 25-060: Project Geaux](https://interactive.wwltv.com/pdfs/Operation_GEAUX.pdf), which directs state law enforcement agencies to collaborate with ICE.
 
-As mandates like this continue to grow, it’s crucial to track which agencies are involved in the program, especially as the Federal Government continues to make data harder to access. This repository provides a real-time overview of participating agencies and their respective agreements.
+As relationships between ICE and local law enforcement become more common, it’s crucial to track which agencies are involved in the program. This repository provides a real-time overview of participating agencies and their respective agreements.
 
-### *Note*
-The Immigrant Legal Resource Center maintains a [national map](https://www.ilrc.org/practitioners/national-map-287g-agreements) of 287(g) agreements along with resources to  understand them.
+### Related Projects
+
+- The [Recovered Factory](http://recoveredfactory.net/) published [Every active 287(g) agreement between local police and ICE](https://287g.recoveredfactory.net/), which analyzes 287(g) agreements, creating graphics, and estimating the % of people who live in communities with such agreements. 
+- The Markup published [Here’s Every Local Police Agency Enforcing for ICE](https://themarkup.org/tools/2025/04/16/law-enforcement-ice-cooperation-tracker), which has continued to track 287(g) agreements.
+- The Immigrant Legal Resource Center maintains a [national map](https://www.ilrc.org/practitioners/national-map-287g-agreements) of 287(g) agreements along with resources to understand them.
 
 ## Setup
 
