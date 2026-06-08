@@ -1,14 +1,18 @@
 # Tracking 287(g)
 
-This repository downloads data and agreements from the **287(g)** program and organizes them to be used by journalists, advocates, and the public. The scraper runs daily, extracting data from the official [ICE 287(g) page](https://www.ice.gov/identify-and-arrest/287g). The data is saved in two main folders:
+This repository downloads data and agreements from the **287(g)** program and organizes them to be used by journalists, advocates, and the public. The scraper runs daily, extracting data from the official [ICE 287(g) page](https://www.ice.gov/identify-and-arrest/287g). 
+
+**The data is saved in three main folders:**
 
 - **`agreements/`**: Contains PDFs of all 287(g) agreements between law enforcement agencies and ICE, categorized by download date/time, state, and agency.
 - **`sheets/`**: Stores Excel files listing participating and pending agencies, as published on the ICE website, categorized by download date/time.
+- **`archive/``**: The archive contains 287(g) sheets and agreements downloaded from the [Wayback Machine](http://web.archive.org/) between January 2021 and when this scraper was created. This is meant to backfill *some* of the missing data.
 
 ### *Note*
-This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at elijahappelson@gmail.com.
+This project was created in my personal capacity. Should you have any questions or suggestions for other public immigration data you would like to see tracked, you can contact me at **elijahappelson@gmail.com**.
 
 ## Updates
+- ***June 8th, 2026:** Included archived data, downloaded via the Wayback Machine. There are still holes in the data, but this should fill in some sheets for the previous 4 years before this scraper was created.
 
 - ***April 8th, 2026:** ICE now is housing the downloads in `https://www.ice.gov/file-download/download/public/`. Code has been adjusted accordingly.*
 
@@ -16,7 +20,7 @@ This project was created in my personal capacity. Should you have any questions 
 
 - ***February 20th, 2026:** Added a license, `sheriff_script.R` to calculate the number of people policed by all Sheriff offices under 287g agreements, and `classification.R` to classify agencies by their agency type (i.e. Local Police Department, Federal Police Department, etc.)*
 
-- ***July 7th, 2025:** Added a code and [resulting CSV](/agreements.csv) that merges the 287(G) data with agencies in the [Census of State and Local Law Enforcement Agencies (CSLLEA), 2018 (ICPSR 38771)](https://www.icpsr.umich.edu/web/NACJD/studies/38771). This allows us to merge the agency data with agency-centered datasets. Particularly, [`agreements.csv`](/agreements.csv) contains zipcodes, how many people the law enforcement agency polices, and what their operating budget is.*
+- ***July 7th, 2025:** Added a code and [resulting CSV](/agreements.csv) that merges the 287(G) data with agencies in the [Census of State and Local Law Enforcement Agencies (CSLLEA), 2018 (ICPSR 38771)](https://www.icpsr.umich.edu/web/NACJD/studies/38771). This allows us to merge the agency data with agency-centered datasets. Particularly, [`agreements.csv`](/agreements.csv) contains zipcodes, how many people the law enforcement agency polices, and what their operating budget is.* **NOTE:** This has been removed from this repository. 
 
 - ***June 16th, 2025:** The `sheets` and `agreement` folders now only contain **new** data/documents to save storage.*
 
