@@ -24,6 +24,57 @@ This project was created in my personal capacity. Should you have any questions 
 
 - ***June 16th, 2025:** The `sheets/` and `agreements/` folders now contain only **new** data/documents, to save storage.*
 
+<!-- STATE_BREAKDOWN:START -->
+## Statewide Breakdown
+
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-08 18:49 UTC — 40 states, 1910 total agreements (source: `participatingAgencies06082026pm.xlsx`).*
+
+| State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
+| --- | ---: | ---: | ---: | ---: |
+| Texas | 213 | 143 | 53 | 409 |
+| Florida | 274 | 65 | 9 | 348 |
+| Missouri | 86 | 11 | 9 | 106 |
+| Pennsylvania | 103 | 3 | 0 | 106 |
+| Arkansas | 53 | 33 | 17 | 103 |
+| Tennessee | 26 | 46 | 10 | 82 |
+| Oklahoma | 63 | 7 | 4 | 74 |
+| Georgia | 31 | 25 | 17 | 73 |
+| Alabama | 44 | 9 | 9 | 62 |
+| South Carolina | 32 | 14 | 3 | 49 |
+| Louisiana | 29 | 9 | 6 | 44 |
+| Kentucky | 37 | 2 | 3 | 42 |
+| Mississippi | 31 | 4 | 4 | 39 |
+| West Virginia | 36 | 1 | 0 | 37 |
+| Indiana | 28 | 5 | 2 | 35 |
+| Kansas | 9 | 24 | 2 | 35 |
+| Virginia | 23 | 5 | 1 | 29 |
+| North Carolina | 7 | 18 | 3 | 28 |
+| Wisconsin | 0 | 18 | 5 | 23 |
+| New Hampshire | 22 | 0 | 0 | 22 |
+| Ohio | 15 | 4 | 1 | 20 |
+| Wyoming | 10 | 7 | 2 | 19 |
+| Utah | 5 | 9 | 2 | 16 |
+| North Dakota | 10 | 4 | 1 | 15 |
+| New York | 7 | 6 | 1 | 14 |
+| Idaho | 3 | 8 | 1 | 12 |
+| Minnesota | 6 | 3 | 1 | 10 |
+| Arizona | 1 | 4 | 5 | 10 |
+| Nebraska | 6 | 1 | 3 | 10 |
+| South Dakota | 4 | 3 | 1 | 8 |
+| Michigan | 5 | 3 | 0 | 8 |
+| Montana | 4 | 2 | 0 | 6 |
+| Nevada | 0 | 4 | 1 | 5 |
+| Iowa | 2 | 0 | 0 | 2 |
+| Alaska | 0 | 2 | 0 | 2 |
+| New Mexico | 0 | 2 | 0 | 2 |
+| Northern Mariana Islands | 1 | 0 | 1 | 2 |
+| Colorado | 0 | 0 | 1 | 1 |
+| Guam | 1 | 0 | 0 | 1 |
+| Massachusetts | 0 | 0 | 1 | 1 |
+| **All states** | **1227** | **504** | **179** | **1910** |
+
+<!-- STATE_BREAKDOWN:END -->
+
 ## Purpose
 
 Law enforcement agencies are increasingly entering into agreements with ICE under the **287(g)** program, assisting in the deportation of immigrants from across the U.S. and potentially facilitating hundreds of thousands of arrests. The program is reinforced by mandates like [Louisiana Executive Order Number JML 25-060: Project Geaux](https://interactive.wwltv.com/pdfs/Operation_GEAUX.pdf), which directs state law enforcement agencies to collaborate with ICE.
