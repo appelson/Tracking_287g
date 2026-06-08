@@ -30,6 +30,9 @@ jobs:
     - name: Run script.py
       run: python script.py
 
+    - name: Run readme_update.py
+      run: python readme_update.py
+
     - name: Run deduplicate.py
       run: python deduplicate.py
 
