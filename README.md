@@ -24,10 +24,6 @@ This project was created in my personal capacity. Should you have any questions 
 
 - ***June 16th, 2025:** The `sheets` and `agreement` folders now only contain **new** data/documents to save storage.*
 
-![image1](plots/add_agreements.png)
-
-![image2](/plots/n_agreements.png)
-
 ## Purpose
 
 Law enforcement agencies are increasingly entering into agreements with ICE under the **287(g)** program, assisting in the deportation of immigrants from across the U.S., potentially facilitating hundreds of thousands of arrests. This program is supported by mandates like [Louisiana Executive Order Number JML 25-060: Project Geaux](https://interactive.wwltv.com/pdfs/Operation_GEAUX.pdf), which directs state law enforcement agencies to collaborate with ICE.
