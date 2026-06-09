@@ -27,7 +27,7 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-08 18:49 UTC — 40 states, 1910 total agreements (source: `participatingAgencies06082026pm.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-09 18:03 UTC — 40 states, 1910 total agreements (source: `participatingAgencies06082026pm.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
@@ -74,7 +74,6 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-0
 | **All states** | **1227** | **504** | **179** | **1910** |
 
 <!-- STATE_BREAKDOWN:END -->
-
 ## Purpose
 
 Law enforcement agencies are increasingly entering into agreements with ICE under the **287(g)** program, assisting in the deportation of immigrants from across the U.S. and potentially facilitating hundreds of thousands of arrests. The program is reinforced by mandates like [Louisiana Executive Order Number JML 25-060: Project Geaux](https://interactive.wwltv.com/pdfs/Operation_GEAUX.pdf), which directs state law enforcement agencies to collaborate with ICE.
