@@ -27,30 +27,30 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-09 18:03 UTC — 40 states, 1910 total agreements (source: `participatingAgencies06082026pm.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-10 18:36 UTC — 40 states, 1934 total agreements (source: `participatingAgencies060920263pm.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
-| Texas | 213 | 143 | 53 | 409 |
-| Florida | 274 | 65 | 9 | 348 |
+| Texas | 220 | 144 | 52 | 416 |
+| Florida | 274 | 65 | 10 | 349 |
+| Pennsylvania | 104 | 3 | 0 | 107 |
+| Arkansas | 56 | 33 | 17 | 106 |
 | Missouri | 86 | 11 | 9 | 106 |
-| Pennsylvania | 103 | 3 | 0 | 106 |
-| Arkansas | 53 | 33 | 17 | 103 |
-| Tennessee | 26 | 46 | 10 | 82 |
-| Oklahoma | 63 | 7 | 4 | 74 |
+| Tennessee | 27 | 47 | 10 | 84 |
+| Oklahoma | 64 | 7 | 5 | 76 |
 | Georgia | 31 | 25 | 17 | 73 |
 | Alabama | 44 | 9 | 9 | 62 |
 | South Carolina | 32 | 14 | 3 | 49 |
-| Louisiana | 29 | 9 | 6 | 44 |
-| Kentucky | 37 | 2 | 3 | 42 |
+| Louisiana | 31 | 9 | 6 | 46 |
+| Kentucky | 39 | 2 | 3 | 44 |
 | Mississippi | 31 | 4 | 4 | 39 |
-| West Virginia | 36 | 1 | 0 | 37 |
+| West Virginia | 37 | 1 | 0 | 38 |
+| Kansas | 10 | 24 | 2 | 36 |
 | Indiana | 28 | 5 | 2 | 35 |
-| Kansas | 9 | 24 | 2 | 35 |
-| Virginia | 23 | 5 | 1 | 29 |
+| Virginia | 24 | 5 | 1 | 30 |
 | North Carolina | 7 | 18 | 3 | 28 |
+| New Hampshire | 23 | 0 | 0 | 23 |
 | Wisconsin | 0 | 18 | 5 | 23 |
-| New Hampshire | 22 | 0 | 0 | 22 |
 | Ohio | 15 | 4 | 1 | 20 |
 | Wyoming | 10 | 7 | 2 | 19 |
 | Utah | 5 | 9 | 2 | 16 |
@@ -71,7 +71,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-0
 | Colorado | 0 | 0 | 1 | 1 |
 | Guam | 1 | 0 | 0 | 1 |
 | Massachusetts | 0 | 0 | 1 | 1 |
-| **All states** | **1227** | **504** | **179** | **1910** |
+| **All states** | **1248** | **506** | **180** | **1934** |
 
 <!-- STATE_BREAKDOWN:END -->
 ## Purpose
