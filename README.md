@@ -27,24 +27,24 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-14 17:06 UTC — 40 states, 1954 total agreements (source: `participatingAgencies06122026am.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-15 19:41 UTC — 40 states, 1959 total agreements (source: `participatingAgencies06152026am.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
-| Texas | 225 | 144 | 52 | 421 |
+| Texas | 227 | 145 | 52 | 424 |
 | Florida | 274 | 65 | 10 | 349 |
-| Arkansas | 60 | 33 | 16 | 109 |
-| Missouri | 87 | 11 | 9 | 107 |
+| Arkansas | 62 | 33 | 16 | 111 |
 | Pennsylvania | 104 | 3 | 0 | 107 |
+| Missouri | 87 | 9 | 7 | 103 |
 | Tennessee | 27 | 47 | 10 | 84 |
 | Oklahoma | 66 | 7 | 5 | 78 |
 | Georgia | 31 | 25 | 17 | 73 |
-| Alabama | 44 | 9 | 9 | 62 |
+| Alabama | 46 | 9 | 9 | 64 |
 | South Carolina | 33 | 14 | 3 | 50 |
-| Louisiana | 32 | 9 | 7 | 48 |
+| Louisiana | 33 | 9 | 7 | 49 |
 | Kentucky | 39 | 2 | 3 | 44 |
 | Mississippi | 31 | 5 | 4 | 40 |
-| Kansas | 11 | 25 | 3 | 39 |
+| Kansas | 12 | 25 | 3 | 40 |
 | West Virginia | 37 | 1 | 0 | 38 |
 | Indiana | 30 | 5 | 2 | 37 |
 | Virginia | 24 | 5 | 1 | 30 |
@@ -71,7 +71,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-1
 | Colorado | 0 | 0 | 1 | 1 |
 | Guam | 1 | 0 | 0 | 1 |
 | Massachusetts | 0 | 0 | 1 | 1 |
-| **All states** | **1265** | **508** | **181** | **1954** |
+| **All states** | **1273** | **507** | **179** | **1959** |
 
 <!-- STATE_BREAKDOWN:END -->
 ## Purpose
