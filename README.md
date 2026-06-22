@@ -27,24 +27,24 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-21 17:08 UTC — 40 states, 1987 total agreements (source: `participatingAgencies06182026.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-22 18:29 UTC — 41 states, 2002 total agreements (source: `participatingAgencies06222026.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
-| Texas | 240 | 145 | 52 | 437 |
+| Texas | 243 | 145 | 52 | 440 |
 | Florida | 274 | 65 | 10 | 349 |
-| Arkansas | 64 | 33 | 16 | 113 |
+| Arkansas | 65 | 33 | 16 | 114 |
 | Pennsylvania | 104 | 3 | 0 | 107 |
 | Missouri | 90 | 9 | 2 | 101 |
-| Tennessee | 27 | 47 | 10 | 84 |
+| Tennessee | 28 | 48 | 10 | 86 |
 | Oklahoma | 71 | 7 | 5 | 83 |
 | Georgia | 31 | 25 | 17 | 73 |
 | Alabama | 47 | 9 | 9 | 65 |
-| Louisiana | 36 | 9 | 7 | 52 |
+| Louisiana | 38 | 10 | 7 | 55 |
 | South Carolina | 34 | 14 | 3 | 51 |
-| Kentucky | 40 | 2 | 3 | 45 |
+| Kentucky | 41 | 2 | 3 | 46 |
+| Kansas | 14 | 26 | 4 | 44 |
 | Mississippi | 34 | 5 | 4 | 43 |
-| Kansas | 13 | 25 | 3 | 41 |
 | West Virginia | 37 | 1 | 0 | 38 |
 | Indiana | 30 | 5 | 2 | 37 |
 | Virginia | 24 | 5 | 1 | 30 |
@@ -58,20 +58,21 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-2
 | New York | 7 | 6 | 1 | 14 |
 | Idaho | 3 | 8 | 1 | 12 |
 | Minnesota | 6 | 3 | 1 | 10 |
-| Arizona | 1 | 4 | 5 | 10 |
 | Nebraska | 6 | 1 | 3 | 10 |
+| Arizona | 1 | 4 | 5 | 10 |
 | South Dakota | 4 | 3 | 1 | 8 |
 | Michigan | 5 | 3 | 0 | 8 |
 | Montana | 4 | 2 | 0 | 6 |
 | Nevada | 0 | 4 | 1 | 5 |
 | Iowa | 2 | 0 | 0 | 2 |
-| Alaska | 0 | 2 | 0 | 2 |
 | New Mexico | 0 | 2 | 0 | 2 |
+| Alaska | 0 | 2 | 0 | 2 |
+| New Hamsphire | 2 | 0 | 0 | 2 |
 | Northern Mariana Islands | 1 | 0 | 1 | 2 |
 | Colorado | 0 | 0 | 1 | 1 |
 | Guam | 1 | 0 | 0 | 1 |
 | Massachusetts | 0 | 0 | 1 | 1 |
-| **All states** | **1306** | **507** | **174** | **1987** |
+| **All states** | **1317** | **510** | **175** | **2002** |
 
 <!-- STATE_BREAKDOWN:END -->
 ## Purpose
