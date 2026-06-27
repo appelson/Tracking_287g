@@ -27,26 +27,26 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-26 17:36 UTC — 41 states, 2019 total agreements (source: `participatingAgencies06242026pm.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-27 16:37 UTC — 41 states, 2033 total agreements (source: `participatingAgencies06262026pm.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
 | Texas | 245 | 146 | 54 | 445 |
 | Florida | 274 | 65 | 10 | 349 |
-| Arkansas | 70 | 33 | 16 | 119 |
-| Pennsylvania | 104 | 3 | 0 | 107 |
-| Missouri | 91 | 9 | 2 | 102 |
-| Tennessee | 29 | 49 | 10 | 88 |
+| Arkansas | 72 | 33 | 16 | 121 |
+| Pennsylvania | 103 | 3 | 0 | 106 |
+| Missouri | 93 | 9 | 2 | 104 |
+| Tennessee | 30 | 50 | 10 | 90 |
 | Oklahoma | 72 | 7 | 5 | 84 |
-| Georgia | 32 | 25 | 17 | 74 |
+| Georgia | 33 | 25 | 17 | 75 |
 | Alabama | 47 | 9 | 9 | 65 |
-| Louisiana | 38 | 10 | 7 | 55 |
-| South Carolina | 34 | 14 | 3 | 51 |
-| Kentucky | 43 | 2 | 3 | 48 |
+| Louisiana | 39 | 10 | 6 | 55 |
+| South Carolina | 35 | 14 | 3 | 52 |
+| Kentucky | 44 | 2 | 3 | 49 |
+| Mississippi | 37 | 5 | 4 | 46 |
 | Kansas | 15 | 26 | 4 | 45 |
-| Mississippi | 35 | 5 | 4 | 44 |
+| Indiana | 32 | 6 | 3 | 41 |
 | West Virginia | 37 | 1 | 0 | 38 |
-| Indiana | 31 | 5 | 2 | 38 |
 | Virginia | 24 | 5 | 1 | 30 |
 | North Carolina | 7 | 18 | 3 | 28 |
 | New Hampshire | 23 | 0 | 0 | 23 |
@@ -56,7 +56,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-2
 | Utah | 5 | 9 | 2 | 16 |
 | North Dakota | 10 | 4 | 1 | 15 |
 | New York | 7 | 6 | 1 | 14 |
-| Idaho | 3 | 8 | 1 | 12 |
+| Idaho | 4 | 8 | 1 | 13 |
 | Minnesota | 6 | 3 | 1 | 10 |
 | Arizona | 1 | 4 | 5 | 10 |
 | South Dakota | 4 | 3 | 1 | 8 |
@@ -72,7 +72,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-06-2
 | Colorado | 0 | 0 | 1 | 1 |
 | Guam | 1 | 0 | 0 | 1 |
 | Massachusetts | 0 | 0 | 1 | 1 |
-| **All states** | **1332** | **511** | **176** | **2019** |
+| **All states** | **1344** | **513** | **176** | **2033** |
 
 <!-- STATE_BREAKDOWN:END -->
 ## Purpose
