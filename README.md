@@ -27,31 +27,31 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-07-06 18:20 UTC — 41 states, 2070 total agreements (source: `participatingAgencies07022026.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-07-07 18:01 UTC — 41 states, 2078 total agreements (source: `participatingAgencies07072026.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
 | Texas | 252 | 147 | 54 | 453 |
 | Florida | 274 | 65 | 10 | 349 |
-| Arkansas | 74 | 33 | 16 | 123 |
-| Missouri | 97 | 9 | 2 | 108 |
+| Arkansas | 74 | 33 | 15 | 122 |
+| Missouri | 98 | 9 | 2 | 109 |
 | Pennsylvania | 104 | 3 | 0 | 107 |
 | Tennessee | 31 | 54 | 10 | 95 |
-| Oklahoma | 73 | 7 | 5 | 85 |
+| Oklahoma | 74 | 7 | 5 | 86 |
 | Georgia | 34 | 25 | 17 | 76 |
 | Alabama | 49 | 9 | 10 | 68 |
-| Louisiana | 44 | 10 | 6 | 60 |
-| South Carolina | 35 | 14 | 3 | 52 |
-| Kentucky | 44 | 2 | 3 | 49 |
+| Louisiana | 45 | 10 | 6 | 61 |
+| South Carolina | 36 | 14 | 3 | 53 |
+| Kentucky | 45 | 2 | 3 | 50 |
+| Kansas | 18 | 27 | 4 | 49 |
 | Mississippi | 39 | 5 | 4 | 48 |
-| Kansas | 17 | 27 | 4 | 48 |
-| Indiana | 32 | 6 | 3 | 41 |
+| Indiana | 33 | 7 | 3 | 43 |
 | West Virginia | 37 | 1 | 0 | 38 |
 | Virginia | 24 | 5 | 1 | 30 |
 | North Carolina | 7 | 18 | 3 | 28 |
 | New Hampshire | 23 | 0 | 0 | 23 |
 | Wisconsin | 0 | 18 | 5 | 23 |
-| Ohio | 16 | 4 | 1 | 21 |
+| Ohio | 17 | 4 | 1 | 22 |
 | Wyoming | 10 | 7 | 2 | 19 |
 | Utah | 5 | 9 | 3 | 17 |
 | North Dakota | 10 | 4 | 1 | 15 |
@@ -72,7 +72,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-07-0
 | Colorado | 0 | 0 | 1 | 1 |
 | Guam | 1 | 0 | 0 | 1 |
 | Massachusetts | 0 | 0 | 1 | 1 |
-| **All states** | **1373** | **519** | **178** | **2070** |
+| **All states** | **1381** | **520** | **177** | **2078** |
 
 <!-- STATE_BREAKDOWN:END -->
 ## Purpose
