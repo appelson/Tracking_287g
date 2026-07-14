@@ -27,7 +27,7 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-07-13 18:02 UTC — 41 states, 2123 total agreements (source: `participatingAgencies07102026pm.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-07-14 17:05 UTC — 41 states, 2123 total agreements (source: `participatingAgencies07102026pm.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
