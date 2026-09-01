@@ -27,23 +27,23 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-08-31 21:16 UTC — 41 states, 2411 total agreements (source: `ParticipatingAgencies08282026pm.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-09-01 19:10 UTC — 41 states, 2430 total agreements (source: `participatingAgencies09012026.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
-| Texas | 314 | 147 | 53 | 514 |
+| Texas | 318 | 147 | 53 | 518 |
 | Florida | 278 | 64 | 10 | 352 |
-| Arkansas | 103 | 41 | 14 | 158 |
-| Missouri | 124 | 13 | 3 | 140 |
+| Arkansas | 107 | 41 | 13 | 161 |
+| Missouri | 129 | 13 | 3 | 145 |
 | Pennsylvania | 126 | 3 | 0 | 129 |
-| Tennessee | 41 | 66 | 10 | 117 |
+| Tennessee | 41 | 69 | 10 | 120 |
 | Georgia | 64 | 26 | 20 | 110 |
-| Oklahoma | 97 | 7 | 6 | 110 |
+| Oklahoma | 98 | 7 | 5 | 110 |
 | Louisiana | 77 | 10 | 6 | 93 |
 | Alabama | 70 | 9 | 11 | 90 |
+| South Carolina | 43 | 16 | 3 | 62 |
 | Mississippi | 52 | 6 | 3 | 61 |
-| South Carolina | 42 | 16 | 3 | 61 |
-| Kansas | 22 | 29 | 4 | 55 |
+| Kansas | 23 | 29 | 4 | 56 |
 | Kentucky | 50 | 2 | 3 | 55 |
 | Indiana | 35 | 6 | 3 | 44 |
 | West Virginia | 38 | 1 | 0 | 39 |
@@ -55,7 +55,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-08-3
 | North Dakota | 16 | 4 | 1 | 21 |
 | Utah | 8 | 8 | 4 | 20 |
 | Wyoming | 10 | 7 | 2 | 19 |
-| Idaho | 4 | 10 | 1 | 15 |
+| Idaho | 4 | 11 | 1 | 16 |
 | Nebraska | 10 | 1 | 3 | 14 |
 | South Dakota | 5 | 4 | 2 | 11 |
 | Minnesota | 6 | 3 | 1 | 10 |
@@ -64,15 +64,15 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-08-3
 | Montana | 4 | 3 | 0 | 7 |
 | Nevada | 0 | 5 | 1 | 6 |
 | New York | 1 | 1 | 1 | 3 |
-| Iowa | 2 | 0 | 0 | 2 |
-| New Mexico | 0 | 2 | 0 | 2 |
-| Alaska | 0 | 2 | 0 | 2 |
+| Iowa | 3 | 0 | 0 | 3 |
 | New Hamsphire | 2 | 0 | 0 | 2 |
+| Alaska | 0 | 2 | 0 | 2 |
+| New Mexico | 0 | 2 | 0 | 2 |
 | Northern Mariana Islands | 1 | 0 | 1 | 2 |
 | Colorado | 0 | 0 | 1 | 1 |
 | Guam | 1 | 0 | 0 | 1 |
 | Massachusetts | 0 | 0 | 1 | 1 |
-| **All states** | **1682** | **547** | **182** | **2411** |
+| **All states** | **1699** | **551** | **180** | **2430** |
 
 <!-- STATE_BREAKDOWN:END -->
 ## Purpose
