@@ -27,33 +27,33 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-09-10 18:50 UTC — 41 states, 2466 total agreements (source: `participatingAgencies09082026.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-09-11 19:07 UTC — 41 states, 2485 total agreements (source: `participatingAgencies09112026.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
-| Texas | 322 | 146 | 53 | 521 |
+| Texas | 325 | 146 | 53 | 524 |
 | Florida | 278 | 64 | 10 | 352 |
-| Arkansas | 113 | 43 | 13 | 169 |
-| Missouri | 132 | 13 | 3 | 148 |
-| Pennsylvania | 127 | 3 | 0 | 130 |
-| Tennessee | 41 | 69 | 10 | 120 |
-| Georgia | 70 | 27 | 20 | 117 |
-| Oklahoma | 104 | 7 | 5 | 116 |
+| Arkansas | 115 | 43 | 13 | 171 |
+| Missouri | 133 | 13 | 3 | 149 |
+| Pennsylvania | 131 | 3 | 0 | 134 |
+| Tennessee | 41 | 71 | 10 | 122 |
+| Georgia | 73 | 27 | 20 | 120 |
+| Oklahoma | 107 | 7 | 5 | 119 |
 | Louisiana | 80 | 9 | 6 | 95 |
 | Alabama | 71 | 9 | 11 | 91 |
 | Mississippi | 55 | 6 | 3 | 64 |
 | South Carolina | 44 | 16 | 3 | 63 |
-| Kansas | 24 | 29 | 4 | 57 |
-| Kentucky | 51 | 2 | 3 | 56 |
+| Kansas | 25 | 29 | 4 | 58 |
+| Kentucky | 52 | 2 | 3 | 57 |
 | Indiana | 36 | 6 | 3 | 45 |
 | West Virginia | 38 | 1 | 0 | 39 |
-| North Carolina | 8 | 18 | 3 | 29 |
+| North Carolina | 9 | 18 | 3 | 30 |
 | New Hampshire | 26 | 0 | 0 | 26 |
-| Virginia | 21 | 3 | 0 | 24 |
+| Virginia | 21 | 2 | 0 | 23 |
 | Ohio | 19 | 3 | 1 | 23 |
 | Wisconsin | 0 | 18 | 5 | 23 |
-| North Dakota | 16 | 4 | 1 | 21 |
 | Utah | 8 | 8 | 4 | 20 |
+| North Dakota | 16 | 3 | 1 | 20 |
 | Wyoming | 10 | 7 | 2 | 19 |
 | Idaho | 4 | 10 | 1 | 15 |
 | Nebraska | 10 | 1 | 3 | 14 |
@@ -72,7 +72,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-09-1
 | Colorado | 0 | 0 | 1 | 1 |
 | Massachusetts | 0 | 0 | 1 | 1 |
 | New York | 0 | 0 | 1 | 1 |
-| **All states** | **1737** | **549** | **180** | **2466** |
+| **All states** | **1756** | **549** | **180** | **2485** |
 
 <!-- STATE_BREAKDOWN:END -->
 ## Purpose
