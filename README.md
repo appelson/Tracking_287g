@@ -27,31 +27,31 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-09-14 20:37 UTC — 41 states, 2506 total agreements (source: `participatingAgencies09142026.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-09-15 19:26 UTC — 41 states, 2510 total agreements (source: `287gParticipatingAgencies091526pm.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
-| Texas | 328 | 146 | 53 | 527 |
-| Florida | 278 | 64 | 10 | 352 |
+| Texas | 329 | 146 | 53 | 528 |
+| Florida | 279 | 64 | 10 | 353 |
 | Arkansas | 115 | 43 | 13 | 171 |
 | Missouri | 133 | 13 | 3 | 149 |
-| Tennessee | 52 | 75 | 10 | 137 |
-| Pennsylvania | 131 | 3 | 0 | 134 |
+| Tennessee | 52 | 75 | 9 | 136 |
+| Pennsylvania | 132 | 3 | 0 | 135 |
 | Georgia | 73 | 27 | 20 | 120 |
 | Oklahoma | 107 | 7 | 5 | 119 |
 | Louisiana | 83 | 9 | 6 | 98 |
-| Alabama | 71 | 9 | 11 | 91 |
+| Alabama | 73 | 9 | 11 | 93 |
 | Mississippi | 55 | 6 | 3 | 64 |
 | South Carolina | 44 | 16 | 3 | 63 |
 | Kansas | 25 | 29 | 4 | 58 |
-| Kentucky | 52 | 2 | 3 | 57 |
+| Kentucky | 53 | 2 | 3 | 58 |
 | Indiana | 36 | 6 | 3 | 45 |
 | West Virginia | 38 | 1 | 0 | 39 |
 | North Carolina | 9 | 18 | 3 | 30 |
 | New Hampshire | 26 | 0 | 0 | 26 |
-| Virginia | 21 | 2 | 0 | 23 |
 | Ohio | 19 | 3 | 1 | 23 |
 | Wisconsin | 0 | 18 | 5 | 23 |
+| Virginia | 20 | 2 | 0 | 22 |
 | Utah | 8 | 8 | 4 | 20 |
 | North Dakota | 16 | 3 | 1 | 20 |
 | Wyoming | 10 | 7 | 2 | 19 |
@@ -72,7 +72,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-09-1
 | Colorado | 0 | 0 | 1 | 1 |
 | Massachusetts | 0 | 0 | 1 | 1 |
 | New York | 0 | 0 | 1 | 1 |
-| **All states** | **1773** | **553** | **180** | **2506** |
+| **All states** | **1778** | **553** | **179** | **2510** |
 
 <!-- STATE_BREAKDOWN:END -->
 ## Purpose
