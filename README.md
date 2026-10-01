@@ -27,19 +27,19 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-09-30 20:56 UTC — 41 states, 2597 total agreements (source: `participatingAgencies09282026.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-10-01 21:34 UTC — 41 states, 2608 total agreements (source: `ParticipatingAgencies09302026pm.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
-| Texas | 337 | 148 | 56 | 541 |
+| Texas | 338 | 148 | 56 | 542 |
 | Florida | 279 | 64 | 10 | 353 |
 | Arkansas | 121 | 43 | 13 | 177 |
 | Missouri | 139 | 13 | 4 | 156 |
-| Tennessee | 62 | 82 | 9 | 153 |
-| Pennsylvania | 135 | 3 | 0 | 138 |
-| Georgia | 80 | 28 | 21 | 129 |
+| Tennessee | 64 | 82 | 9 | 155 |
+| Pennsylvania | 137 | 3 | 0 | 140 |
+| Georgia | 82 | 28 | 21 | 131 |
 | Oklahoma | 113 | 7 | 5 | 125 |
-| Louisiana | 87 | 9 | 6 | 102 |
+| Louisiana | 88 | 9 | 6 | 103 |
 | Alabama | 75 | 9 | 11 | 95 |
 | Mississippi | 58 | 6 | 3 | 67 |
 | South Carolina | 47 | 16 | 3 | 66 |
@@ -47,10 +47,10 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-09-3
 | Kansas | 25 | 29 | 4 | 58 |
 | Indiana | 40 | 6 | 3 | 49 |
 | West Virginia | 39 | 1 | 0 | 40 |
-| North Carolina | 10 | 18 | 3 | 31 |
+| North Carolina | 11 | 19 | 3 | 33 |
 | New Hampshire | 27 | 0 | 0 | 27 |
+| Wisconsin | 0 | 19 | 5 | 24 |
 | Ohio | 19 | 3 | 1 | 23 |
-| Wisconsin | 0 | 18 | 5 | 23 |
 | Virginia | 20 | 2 | 0 | 22 |
 | North Dakota | 16 | 3 | 1 | 20 |
 | Wyoming | 11 | 7 | 2 | 20 |
@@ -72,7 +72,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-09-3
 | Colorado | 0 | 0 | 1 | 1 |
 | Massachusetts | 0 | 0 | 1 | 1 |
 | New York | 0 | 0 | 1 | 1 |
-| **All states** | **1849** | **564** | **184** | **2597** |
+| **All states** | **1858** | **566** | **184** | **2608** |
 
 <!-- STATE_BREAKDOWN:END -->
 ## Purpose
