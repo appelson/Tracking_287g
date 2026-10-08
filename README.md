@@ -27,17 +27,17 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-10-07 21:10 UTC — 40 states, 2639 total agreements (source: `participatingAgencies10072026.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-10-08 21:11 UTC — 40 states, 2650 total agreements (source: `participatingAgencies10082026.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
 | Texas | 345 | 148 | 56 | 549 |
 | Florida | 279 | 64 | 10 | 353 |
-| Arkansas | 122 | 43 | 13 | 178 |
+| Arkansas | 123 | 43 | 13 | 179 |
 | Tennessee | 69 | 83 | 9 | 161 |
-| Missouri | 140 | 13 | 4 | 157 |
+| Missouri | 141 | 13 | 4 | 158 |
 | Pennsylvania | 139 | 3 | 0 | 142 |
-| Georgia | 85 | 28 | 21 | 134 |
+| Georgia | 87 | 28 | 21 | 136 |
 | Oklahoma | 114 | 7 | 5 | 126 |
 | Louisiana | 89 | 9 | 6 | 104 |
 | Alabama | 76 | 9 | 11 | 96 |
@@ -45,19 +45,19 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-10-0
 | Mississippi | 58 | 6 | 3 | 67 |
 | Kentucky | 54 | 2 | 3 | 59 |
 | Kansas | 25 | 29 | 4 | 58 |
-| Indiana | 40 | 6 | 3 | 49 |
-| West Virginia | 41 | 1 | 0 | 42 |
+| Indiana | 41 | 6 | 3 | 50 |
+| West Virginia | 42 | 1 | 0 | 43 |
 | North Carolina | 12 | 19 | 3 | 34 |
 | New Hampshire | 29 | 0 | 0 | 29 |
+| Ohio | 20 | 3 | 1 | 24 |
 | Wisconsin | 0 | 19 | 5 | 24 |
-| Ohio | 19 | 3 | 1 | 23 |
 | Virginia | 20 | 2 | 0 | 22 |
 | North Dakota | 17 | 3 | 1 | 21 |
 | Wyoming | 11 | 7 | 2 | 20 |
 | Utah | 8 | 8 | 4 | 20 |
-| Idaho | 4 | 11 | 1 | 16 |
-| Nebraska | 12 | 1 | 2 | 15 |
-| South Dakota | 8 | 4 | 2 | 14 |
+| Idaho | 5 | 11 | 1 | 17 |
+| South Dakota | 10 | 4 | 2 | 16 |
+| Nebraska | 12 | 2 | 2 | 16 |
 | Arizona | 1 | 4 | 5 | 10 |
 | Minnesota | 6 | 3 | 1 | 10 |
 | Montana | 5 | 3 | 0 | 8 |
@@ -71,7 +71,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-10-0
 | Colorado | 0 | 0 | 1 | 1 |
 | Massachusetts | 0 | 0 | 1 | 1 |
 | New York | 0 | 0 | 1 | 1 |
-| **All states** | **1888** | **568** | **183** | **2639** |
+| **All states** | **1898** | **569** | **183** | **2650** |
 
 <!-- STATE_BREAKDOWN:END -->
 ## Purpose
