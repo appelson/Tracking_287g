@@ -27,37 +27,37 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-10-26 21:03 UTC — 40 states, 2697 total agreements (source: `ParticipatingAgencies10202026pm.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-10-27 20:36 UTC — 40 states, 2718 total agreements (source: `ParticipatingAgencies10272026pm.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
-| Texas | 350 | 151 | 54 | 555 |
+| Texas | 352 | 151 | 54 | 557 |
 | Florida | 280 | 64 | 10 | 354 |
-| Arkansas | 123 | 43 | 13 | 179 |
-| Tennessee | 71 | 83 | 9 | 163 |
-| Missouri | 144 | 13 | 4 | 161 |
-| Pennsylvania | 143 | 3 | 0 | 146 |
-| Georgia | 94 | 28 | 21 | 143 |
-| Oklahoma | 122 | 7 | 5 | 134 |
+| Arkansas | 125 | 43 | 13 | 181 |
+| Tennessee | 74 | 83 | 9 | 166 |
+| Missouri | 147 | 13 | 4 | 164 |
+| Pennsylvania | 146 | 3 | 0 | 149 |
+| Georgia | 100 | 28 | 21 | 149 |
+| Oklahoma | 123 | 7 | 5 | 135 |
 | Louisiana | 91 | 9 | 6 | 106 |
-| Alabama | 77 | 9 | 11 | 97 |
+| Alabama | 79 | 8 | 11 | 98 |
+| Mississippi | 61 | 7 | 4 | 72 |
 | South Carolina | 53 | 16 | 3 | 72 |
-| Mississippi | 60 | 7 | 4 | 71 |
-| Kentucky | 54 | 2 | 3 | 59 |
+| Kentucky | 55 | 2 | 3 | 60 |
 | Kansas | 26 | 29 | 4 | 59 |
-| Indiana | 40 | 6 | 3 | 49 |
+| Indiana | 39 | 6 | 3 | 48 |
 | West Virginia | 43 | 1 | 0 | 44 |
 | North Carolina | 14 | 19 | 3 | 36 |
 | New Hampshire | 29 | 0 | 0 | 29 |
 | Ohio | 21 | 3 | 1 | 25 |
 | Wisconsin | 0 | 19 | 5 | 24 |
-| Virginia | 20 | 2 | 0 | 22 |
-| North Dakota | 17 | 3 | 1 | 21 |
 | Wyoming | 11 | 8 | 2 | 21 |
+| Virginia | 19 | 2 | 0 | 21 |
 | Utah | 8 | 8 | 4 | 20 |
+| North Dakota | 17 | 2 | 1 | 20 |
 | Idaho | 5 | 11 | 1 | 17 |
-| South Dakota | 10 | 4 | 2 | 16 |
-| Nebraska | 12 | 2 | 2 | 16 |
+| South Dakota | 11 | 4 | 2 | 17 |
+| Nebraska | 13 | 1 | 2 | 16 |
 | Arizona | 1 | 4 | 5 | 10 |
 | Minnesota | 6 | 3 | 1 | 10 |
 | Montana | 5 | 3 | 0 | 8 |
@@ -71,7 +71,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-10-2
 | Colorado | 0 | 0 | 1 | 1 |
 | Massachusetts | 0 | 0 | 1 | 1 |
 | New York | 0 | 0 | 1 | 1 |
-| **All states** | **1941** | **574** | **182** | **2697** |
+| **All states** | **1965** | **571** | **182** | **2718** |
 
 <!-- STATE_BREAKDOWN:END -->
 ## Purpose
