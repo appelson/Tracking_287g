@@ -27,19 +27,19 @@ This project was created in my personal capacity. Should you have any questions 
 <!-- STATE_BREAKDOWN:START -->
 ## Statewide Breakdown
 
-Number of 287(g) agreements per state, by support type. *Last updated: 2026-10-27 20:36 UTC — 40 states, 2718 total agreements (source: `ParticipatingAgencies10272026pm.xlsx`).*
+Number of 287(g) agreements per state, by support type. *Last updated: 2026-10-28 21:00 UTC — 40 states, 2725 total agreements (source: `ParticipatingAgencies10282026pm.xlsx`).*
 
 | State | Task Force Model | Warrant Service Officer | Jail Enforcement Model | Total |
 | --- | ---: | ---: | ---: | ---: |
-| Texas | 352 | 151 | 54 | 557 |
+| Texas | 353 | 151 | 54 | 558 |
 | Florida | 280 | 64 | 10 | 354 |
-| Arkansas | 125 | 43 | 13 | 181 |
+| Arkansas | 126 | 43 | 13 | 182 |
 | Tennessee | 74 | 83 | 9 | 166 |
 | Missouri | 147 | 13 | 4 | 164 |
 | Pennsylvania | 146 | 3 | 0 | 149 |
 | Georgia | 100 | 28 | 21 | 149 |
-| Oklahoma | 123 | 7 | 5 | 135 |
-| Louisiana | 91 | 9 | 6 | 106 |
+| Oklahoma | 124 | 7 | 5 | 136 |
+| Louisiana | 94 | 9 | 6 | 109 |
 | Alabama | 79 | 8 | 11 | 98 |
 | Mississippi | 61 | 7 | 4 | 72 |
 | South Carolina | 53 | 16 | 3 | 72 |
@@ -48,7 +48,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-10-2
 | Indiana | 39 | 6 | 3 | 48 |
 | West Virginia | 43 | 1 | 0 | 44 |
 | North Carolina | 14 | 19 | 3 | 36 |
-| New Hampshire | 29 | 0 | 0 | 29 |
+| New Hampshire | 30 | 0 | 0 | 30 |
 | Ohio | 21 | 3 | 1 | 25 |
 | Wisconsin | 0 | 19 | 5 | 24 |
 | Wyoming | 11 | 8 | 2 | 21 |
@@ -71,7 +71,7 @@ Number of 287(g) agreements per state, by support type. *Last updated: 2026-10-2
 | Colorado | 0 | 0 | 1 | 1 |
 | Massachusetts | 0 | 0 | 1 | 1 |
 | New York | 0 | 0 | 1 | 1 |
-| **All states** | **1965** | **571** | **182** | **2718** |
+| **All states** | **1972** | **571** | **182** | **2725** |
 
 <!-- STATE_BREAKDOWN:END -->
 ## Purpose
